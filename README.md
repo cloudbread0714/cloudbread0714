@@ -1,16 +1,85 @@
-## Hi there 👋
+# Yujin Kang
 
-<!--
-**cloudbread0714/cloudbread0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Engineer | Backend Engineer
 
-Here are some ideas to get you started:
+I build scalable and secure cloud-based services,
+with a focus on AWS infrastructure, backend development,
+and CI/CD automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Interested in Cloud Infrastructure and Backend Development
+- Building and managing AWS-based services
+- Experience with Docker and containerized environments
+- Building CI/CD pipelines with GitHub Actions
+- Interested in Infrastructure as Code with Terraform
+- Interested in Cloud Security and secure system design
+
+---
+
+## Tech Stack
+
+### Cloud & Infrastructure
+
+AWS · Docker · Kubernetes · Terraform · Linux
+
+### Backend
+
+Java · Spring Boot · Python · FastAPI
+
+### Database
+
+PostgreSQL · MySQL · Redis
+
+### CI/CD
+
+GitHub Actions · Docker
+
+### Security
+
+IAM · SBOM · CVE · Trivy
+
+---
+
+## Featured Projects
+
+### PawPawFind
+
+AI-based abandoned animal matching service.
+
+**AWS · Spring Boot · FastAPI · PostgreSQL · Docker · GitHub Actions**
+
+---
+
+### Hanium IoT Vulnerability Monitor
+
+Cloud-based IoT vulnerability monitoring platform.
+
+**AWS · Docker · Kubernetes · Trivy · Syft**
+
+---
+
+### Infrastructure Automation
+
+Infrastructure automation and self-service platform using Infrastructure as Code.
+
+**AWS · Terraform · Docker · CI/CD**
+
+---
+
+## Focus Areas
+
+- Cloud Infrastructure
+- Backend Development
+- DevOps & CI/CD
+- Infrastructure as Code
+- Cloud Security
+
+---
+
+## Links
+
+- [Blog](https://velog.io/@cloudbread0714)
+- [GitHub](https://github.com/cloudbread0714)
