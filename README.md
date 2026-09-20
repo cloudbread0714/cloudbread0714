@@ -61,11 +61,19 @@ Cloud-based IoT vulnerability monitoring platform.
 
 ---
 
-### Infrastructure Automation
+### Tayo Taxi
 
-Infrastructure automation and self-service platform using Infrastructure as Code.
+Taxi reservation and management web service.
 
-**AWS · Terraform · Docker · CI/CD**
+**Java · Spring Boot · MySQL · AWS · Docker**
+
+---
+
+### Gonggu Nara
+
+Local group-buying web service.
+
+**Java · Spring Boot · MySQL · AWS · Docker**
 
 ---
 
