@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I build **scalable and secure cloud-based services**, with a focus on AWS infrastructure, backend development, and CI/CD automation.
 
@@ -27,12 +27,12 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
     <td align="center" width="140"><b>Cloud & Infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
@@ -59,7 +59,7 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -78,7 +78,6 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
       <p>Cloud-based IoT vulnerability monitoring and AI-powered risk prioritization.</p>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
       <img src="https://img.shields.io/badge/Syft-4B5563?style=flat-square" />
     </td>
@@ -107,13 +106,13 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 `☁️ Cloud Infrastructure` `⚙️ Backend Development` `🔄 DevOps & CI/CD` `🏗️ Infrastructure as Code` `🔐 Cloud Security`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=cloudbread0714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
