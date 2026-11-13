@@ -15,18 +15,6 @@
 
 ---
 
-## About Me
-
-I build **scalable and secure cloud-based services**, with a focus on AWS infrastructure, backend development, and CI/CD automation.
-
-- ☁️ Building and managing **AWS-based services**
-- 🐳 Working with **Docker** and containerized environments
-- 🔄 Building **CI/CD pipelines** with GitHub Actions
-- 🏗️ Exploring **Infrastructure as Code** with Terraform
-- 🔐 Interested in **Cloud Security** and secure system design
-
----
-
 ## Tech Stack
 
 <table>
@@ -64,7 +52,7 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 PawPawFind</h3>
+      <h3>🐾 <a href="https://github.com/PawPawFind">PawPawFind</a></h3>
       <p>AI-based abandoned animal matching service.</p>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -84,7 +72,7 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚕 Tayo Taxi</h3>
+      <h3>🚕 <a href="https://github.com/cloudbread0714/tayo-taxi-user">Tayo Taxi</a></h3>
       <p>Taxi reservation and management web service.</p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -93,7 +81,7 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Gonggu Nara</h3>
+      <h3>🛒 <a href="https://github.com/cloudbread0714/gonggu-web">Gonggu Nara</a></h3>
       <p>Local group-buying web service.</p>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -106,18 +94,8 @@ I build **scalable and secure cloud-based services**, with a focus on AWS infras
 
 ---
 
-## Focus Areas
-
-`☁️ Cloud Infrastructure` `⚙️ Backend Development` `🔄 DevOps & CI/CD` `🏗️ Infrastructure as Code` `🔐 Cloud Security`
-
----
-
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cloudbread0714&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudbread0714&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cloudbread0714&theme=tokyonight&hide_border=true" />
 </p>
